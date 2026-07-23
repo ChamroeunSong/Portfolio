@@ -403,7 +403,7 @@ updateSkillsDisplay('all');
 
 // Typing Text Effect
 const typingText = document.querySelector('.typing-text');
-const words = ['Backend Developer', 'Frontend Developer', 'UX/UI', 'Database Administrator'];
+const words = ['Python Developer','Backend Developer', 'Frontend Developer', 'UX/UI'];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
